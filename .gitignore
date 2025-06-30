@@ -1,0 +1,10 @@
+# Ignora gli output della compilazione
+build/
+*.o
+*.out
+*.exe
+
+# Backup e file temporanei
+*~
+*.swp
+.DS_Store
